@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "HyperQ.Server": {
-      "commandName": "Project",
-      "commandLineArgs": "-v"
-    }
-  }
-}
