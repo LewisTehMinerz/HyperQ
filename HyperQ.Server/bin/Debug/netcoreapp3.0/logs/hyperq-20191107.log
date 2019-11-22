@@ -1,0 +1,137 @@
+2019-11-07 14:16:42.672 +00:00 [INF] Goodbye.
+2019-11-07 14:18:11.410 +00:00 [INF] Goodbye.
+2019-11-07 14:18:48.660 +00:00 [INF] Goodbye.
+2019-11-07 14:19:05.055 +00:00 [INF] Goodbye.
+2019-11-07 14:19:22.792 +00:00 [INF] Goodbye.
+2019-11-07 14:19:40.874 +00:00 [INF] Goodbye.
+2019-11-07 14:24:13.419 +00:00 [INF] Goodbye.
+2019-11-07 14:25:01.226 +00:00 [INF] Goodbye.
+2019-11-07 14:25:12.996 +00:00 [INF] Goodbye.
+2019-11-07 14:25:41.670 +00:00 [INF] Goodbye.
+2019-11-07 14:25:59.643 +00:00 [INF] Goodbye.
+2019-11-07 14:26:24.672 +00:00 [INF] Goodbye.
+2019-11-07 14:26:30.922 +00:00 [INF] Goodbye.
+2019-11-07 14:27:04.372 +00:00 [INF] Goodbye.
+2019-11-07 14:27:50.556 +00:00 [INF] Provided options: {"Verbose":true,"$type":"Options"}
+2019-11-07 14:27:50.705 +00:00 [INF] Goodbye.
+2019-11-07 14:29:13.521 +00:00 [INF] Goodbye.
+2019-11-07 14:29:46.804 +00:00 [INF] Goodbye.
+2019-11-07 14:30:14.450 +00:00 [INF] Goodbye.
+2019-11-07 14:32:38.054 +00:00 [INF] Goodbye.
+2019-11-07 14:38:17.271 +00:00 [ERR] error D:
+System.Exception: vomit
+2019-11-07 14:38:17.443 +00:00 [INF] Goodbye.
+2019-11-07 14:38:49.444 +00:00 [ERR] error D:
+System.Exception: vomit
+   at HyperQ.Server.HyperQ.Run(Options opts) in E:\User Documents\Lewis\Documents\Visual Studio 2019\Projects\HyperQ\HyperQ.Server\HyperQ.cs:line 48
+2019-11-07 14:38:50.396 +00:00 [INF] Goodbye.
+2019-11-07 14:39:58.150 +00:00 [ERR] error D:
+System.Exception: HyperQ.Server.HyperQ
+   at HyperQ.Server.HyperQ.Run(Options opts) in E:\User Documents\Lewis\Documents\Visual Studio 2019\Projects\HyperQ\HyperQ.Server\HyperQ.cs:line 48
+2019-11-07 14:39:58.400 +00:00 [INF] Goodbye.
+2019-11-07 14:40:25.103 +00:00 [FTL] error D:
+System.Exception: HyperQ.Server.HyperQ
+   at HyperQ.Server.HyperQ.Run(Options opts) in E:\User Documents\Lewis\Documents\Visual Studio 2019\Projects\HyperQ\HyperQ.Server\HyperQ.cs:line 48
+2019-11-07 14:40:25.307 +00:00 [INF] Goodbye.
+2019-11-07 14:43:43.732 +00:00 [INF] Goodbye.
+2019-11-07 14:43:58.461 +00:00 [FTL] An exception worked its way back up to the entry point of HyperQ. This should never happen. Will now exit.
+System.Exception: test error
+   at HyperQ.Server.HyperQ.Run(Options opts) in E:\User Documents\Lewis\Documents\Visual Studio 2019\Projects\HyperQ\HyperQ.Server\HyperQ.cs:line 52
+2019-11-07 14:44:32.171 +00:00 [FTL] An exception worked its way back up to the entry point of HyperQ. This should never happen. Will now exit.
+System.Exception: test error
+   at HyperQ.Server.HyperQ.Run(Options opts) in E:\User Documents\Lewis\Documents\Visual Studio 2019\Projects\HyperQ\HyperQ.Server\HyperQ.cs:line 52
+2019-11-07 15:07:50.704 +00:00 [INF] HyperQ.Server 0.0.0.0 starting.
+2019-11-07 15:08:24.628 +00:00 [INF] HyperQ.Server 0.0.0.0 starting.
+2019-11-07 15:11:21.778 +00:00 [INF] HyperQ.Server 0.0.0.0-debug starting.
+2019-11-07 15:12:01.958 +00:00 [INF] HyperQ.Server 0.0.0.0-debug starting.
+2019-11-07 15:14:41.107 +00:00 [INF] HyperQ.Server 0.0.0.0-debug starting.
+2019-11-07 15:15:00.973 +00:00 [INF] HyperQ.Server 0.0.0.0-debug starting.
+2019-11-07 15:16:41.292 +00:00 [INF] HyperQ.Server 0.0.0.0-debug starting.
+2019-11-07 15:17:33.612 +00:00 [INF] HyperQ.Server 0.0.0.0-debug starting.
+2019-11-07 15:18:15.299 +00:00 [INF] HyperQ.Server 0.0.0.0-debug starting.
+2019-11-07 15:18:51.002 +00:00 [INF] HyperQ.Server 0.0.0.0-debug starting.
+[2019-11-07 15:19:19.898 +00:00 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[2019-11-07 15:20:01.622 +00:00 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[15:23:05 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[15:29:29 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[15:29:57 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[15:41:13 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[15:43:10 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:24:01 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:24:01 INF MainThread::1] Starting socket server on port 5000.
+[19:24:01 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:27:00 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:27:00 INF MainThread::1] Starting socket server on port 5000.
+[19:27:00 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:31:04 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:31:04 INF MainThread::1] Starting socket server on port 5000.
+[19:31:06 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:33:25 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:33:25 INF MainThread::1] Starting socket server on port 5000.
+[19:33:25 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:35:31 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:35:31 INF MainThread::1] Starting socket server on port 5000.
+[19:35:31 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:36:58 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:36:58 INF MainThread::1] Starting socket server on port 5000.
+[19:36:59 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:38:27 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:38:27 INF MainThread::1] Starting socket server on port 5000.
+[19:38:28 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:41:43 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:41:43 INF MainThread::1] Starting socket server on port 5000.
+[19:41:44 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:44:03 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:44:03 INF MainThread::1] Starting socket server on port 5000.
+[19:44:03 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:44:55 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:44:55 INF MainThread::1] Starting socket server on port 5000.
+[19:44:55 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:48:40 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:48:40 INF MainThread::1] Starting socket server on port 5000.
+[19:48:40 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:49:44 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:49:44 INF MainThread::1] Starting socket server on port 5000.
+[19:49:44 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:49:51 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:49:52 INF MainThread::1] Starting socket server on port 5000.
+[19:49:52 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:50:20 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:50:21 INF MainThread::1] Starting socket server on port 5000.
+[19:50:21 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:53:31 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:53:31 INF MainThread::1] Starting socket server on port 5000.
+[19:53:32 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:54:48 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:54:49 INF MainThread::1] Starting socket server on port 5000.
+[19:54:49 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:56:00 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:56:01 INF MainThread::1] Starting socket server on port 5000.
+[19:56:01 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:56:47 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:56:48 INF MainThread::1] Starting socket server on port 5000.
+[19:56:48 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[19:57:19 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[19:57:19 INF MainThread::1] Starting socket server on port 5000.
+[19:57:19 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[20:06:23 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[20:06:23 INF MainThread::1] Starting socket server on port 5000.
+[20:06:23 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[20:08:38 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[20:08:38 INF MainThread::1] Starting socket server on port 5000.
+[20:08:38 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[20:10:18 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[20:10:18 INF MainThread::1] Starting socket server on port 5000.
+[20:10:18 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[20:12:16 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[20:12:16 INF MainThread::1] Starting socket server on port 5000.
+[20:12:16 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[20:16:10 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[20:16:10 INF MainThread::1] Starting socket server on port 5000.
+[20:16:11 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[20:20:00 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[20:20:00 INF MainThread::1] Starting socket server on port 5000.
+[20:20:01 INF MainThread::1] Listening on port 5000. Waiting for connections.
+[20:24:35 INF MainThread::1] HyperQ.Server 0.0.0.0-debug starting.
+[20:24:35 INF MainThread::1] Starting socket server on port 5000.
+[20:24:35 INF MainThread::1] Listening on port 5000. Waiting for connections.
